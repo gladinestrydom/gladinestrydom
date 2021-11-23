@@ -1,6 +1,6 @@
 ## Hi there 🤠
 
-I am Gladine! I am a front-end develper and UX/UI designer based in Auckland.
+I am Gladine! I am a front-end developer and UX/UI designer based in Auckland.
 
 Currently expanding my skills through doing some self initiated projects. 
 Check out my portfolio! https://gladinestrydom.herokuapp.com/
