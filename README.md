@@ -3,7 +3,10 @@
 I am Gladine! I am a front-end developer and UX/UI designer based in Auckland.
 
 Currently expanding my skills through doing some self initiated projects. 
-Check out my portfolio! https://gladinestrydom.herokuapp.com/
+Check out my [personal portfolio!](https://gladinedev.herokuapp.com/)
+
+#### Recently finished my second portfolio website exploring more colour and fun components.
+[Click here to check it out!](https://gladinedev.herokuapp.com/)
 
 🎨 HTML5, CSS#, JavaScript and Bootstrap 5 <br>
 🖥️ NodeJS, Express, Representational State Transfer (REST) <br>
