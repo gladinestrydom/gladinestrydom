@@ -1,16 +1,14 @@
-## Hi there 🤠
+## Hi there 🤠 
 
-I am Gladine! I am a front-end developer and UX/UI designer based in Auckland.
+### I am Gladine! I am a product designer at Lightspeed.
 
-Currently expanding my skills through doing some self initiated projects. 
-Check out my [personal portfolio!](https://gladinedev.herokuapp.com/)
+View my personal portfolio exploring colour and fun components
 
-#### Recently finished my second portfolio website exploring more colour and fun components.
-[Click here to check it out!](https://gladinedev.herokuapp.com/)
+[gladinestrydom.com](https://gladinedev.herokuapp.com/)
 
-🎨 HTML5, CSS#, JavaScript and Bootstrap 5 <br>
-🖥️ NodeJS, Express, Representational State Transfer (REST) <br>
-📙 Mongoose, MongoDB, Heroku, Git, Github
+🎨 Figma, Adobe Illustrator, Adobe Photoshop, Procreate <br>
+🖥️ HTML5, CSS#, JavaScript and React <br>
+🏋️‍♀️ Gym, Volleyball and Bouldering
 
 ##### GitHub repositories - top languages:
 
